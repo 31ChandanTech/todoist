@@ -1,0 +1,10 @@
+.header{
+    padding: 12px 0;
+    background: #FF00FF;
+    color: #fff;
+    letter-spacing: 1.5px;
+}
+.header .title span{
+    font-size: 18px;
+    color: #2e2b2b;
+}
